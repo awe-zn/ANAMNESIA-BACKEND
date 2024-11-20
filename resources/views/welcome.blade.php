@@ -41,6 +41,6 @@
     </style>
 </head>
 <body>
-    <p>ANAMNÉSIA</p>
+    <p> ANAMNÉSIA </p>
 </body>
 </html>
